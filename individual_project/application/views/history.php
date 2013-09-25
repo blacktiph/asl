@@ -1,0 +1,21 @@
+<div id="content">
+
+	<h1>History</h1>
+		
+	<img id="article_img_left" src="../images/holding_mouth.jpg" alt="A huge bull shark caught during the 2013 Blacktip Challenge" />
+	
+	<p>While vacationing with his family in Florida several years ago, Josh Jorgensen, an avid angler from Canada, took up the sport of Big Game Fishing. After several years of fishing from the surf, Jorgensen and his friend Tom Kieras, decided to participate in a local shark fishing tournament in 2007. The team did not do very well, but by fishing the tournament, Jorgensen became inspired to start his own tournament.</p>
+	
+	<p>After much research and effort, Jorgensen had organized the 1st Annual Blacktip Challenge Shark Fishing Tournament in 2008. The tournament was designed to target the winter Blacktip migration. Blacktip sharks begin their northern descent in December and return to the north in April. The tournament began on January 1st and ended on March 31st. A total of 14 anglers participated in 2008 and managed to catch and release 156 sharks during the three month period.</p>
+	
+	<p>After a successful inaugural tournament in 2008, 'Blacktip Challenge' creator and director, Josh Jorgensen, began planning for the 2009 event with an expanded vision. Josh, a supporter of conservation-minded fishing, expanded the tournament beyond the 'CPR' &#40;catch, photograph &#38; release&#41; format of 2008 with added steps to qualify catches that include measurement taking for use in estimated weight formulas, and most notably, the application of research-tracking tags, prior to the release of all animals back to the wild. Jorgensen decided that a partnership with NOAA&#39;s <i>Apex Predator Program</i> was the most proficient way to involve tagging in the tournament format. The Blacktip Challenge also partnered with members of the scientific community like Dr&#39;s Nancy E. Kohler and Patrica A. Turner of the National Marine Fisheries Service, fisheries research biologist for the Florida Fish and Wildlife Research Institute, Eric Sander, and David Hall of Hallprint fish tags. In efforts to share his passion, and after viewing enough of what he refers to as, &#34;The same old fishing shows on TV&#34;, Jorgensen approached fellow big-game anglers and wildlife filmers, Sean &#38; Brooks Paxton, to produce a mini series of the tournament. The <a target="_blank" href="http://www.youtube.com/playlist?list=PL1A737C45342E3C03&feature=view_all" title="Blacktip Challenge Web Series">seven-episode series</a> was aired on YouTube and has accumulated over 140,000 views. The seven-day tournament was also covered by <a target="_blank" href="http://www.youtube.com/watch?v=8MY1xIDZ_T4" title="Blacktip Challenge shark fishing tournament on SpiegelTV">SpiegelTV</a>; a television production company in the news magazine Der Spiegel.</p>
+	
+	<img id="article_img_right" src="../images/filming_htdf.jpg" alt="Filming an episode with How to Do Florida TV show" />
+	
+	<p>As the tournament's popularity continued to grow, producers from the award winning show <i><a target="_blank" href="http://www.youtube.com/watch?v=QsaVT-PG1zQ" title="how to Do Florida - Land-based shark fishing">how to Do florida</a></i> contacted Jorgensen to film a segment during the 2012 Blacktip Challenge. The episode showed it's audience how to do land-based shark fishing and was aired on Sun Sports and ABC.</p>
+	
+	<p>In the fall of 2012, researchers from Nova Southeastern University (NSU) and St. Mary’s Medical Center (SMMC) contacted Jorgensen with the intent of conducting important shark research during the 2013 tournament. The purpose of this research is to improve the medical treatment of shark attack victims. During the tournament, researchers worked with anglers by taking bacterial swabs of the oral flora from the sharks caught. More than 75 sharks (including 11 sharks exceeding eight feet in length) were caught over the three day period of the tournament.</p> 
+
+</div><!-- #content -->
+
+</div><!-- #pageWrapper -->

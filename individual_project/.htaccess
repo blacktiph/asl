@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^qqq /asl_project/home
+#RewriteRule ^gallery/(\d+)$ /asl_project/index.php/gallery/year/$2 [L]
+#RewriteCond %{REQUEST_URI} !gallery/year
+RewriteRule ^(.*)$ /asl_project/index.php/$1 [L]
+#RewriteRule ^(a-zA-Z0-9)$ /asl_project/index.php/$1 [L]
